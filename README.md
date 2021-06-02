@@ -1,6 +1,6 @@
 Privacy policy
 
-Developer built the “Reduce” app as an Ad Supported
+Developer built the this app as an Ad Supported
 This app is provided by at no cost and is intended for use as is.
 
 This privacy policy is used to inform you regarding policies with the collection, use, and disclosure of Personal Information if anyone decided to use this Service.
